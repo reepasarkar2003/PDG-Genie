@@ -4,6 +4,7 @@ Ever wished you could ask questions directly from PDFs instead of scrolling endl
 
 PDF-Genie transforms your documents into a smart assistant, providing instant, context-aware answers from your PDFs.
 
+
 ✨ Features
 
 📁 Multiple PDF Uploads – Upload and process several PDFs at once.
@@ -17,6 +18,7 @@ PDF-Genie transforms your documents into a smart assistant, providing instant, c
 ⚡ Efficient Document Handling – Optimized for handling large PDFs without slowing down.
 
 ✅ Interactive & Easy-to-Use – Built entirely with Python & Streamlit.
+
 
 🛠 Tech Stack & Libraries
 
@@ -34,6 +36,7 @@ Google Gemini AI – Conversational AI for accurate question answering.
 
 python-dotenv – Manage API keys securely.
 
+
 💡 Why PDF-Genie?
 
 PDF-Genie is perfect for:
@@ -45,6 +48,7 @@ Manuals & guides
 Reports & documents
 
 Turn them into a smart assistant that answers your questions instantly, saving you hours of reading and scrolling.
+
 
 🎯 How to Use
 
@@ -70,6 +74,7 @@ streamlit run app.py
 
 Upload your PDFs and start asking questions!
 
+
 📂 Project Structure
 PDF-Genie/
 ├─ app.py                # Main Streamlit app
@@ -78,14 +83,17 @@ PDF-Genie/
 ├─ utils/                # Helper functions for processing PDFs and embeddings
 ├─ README.md             # Project documentation
 
+
 🔖 License
 
 This project is MIT Licensed – see the LICENSE
  file for details.
 
+
 📣 Try it Now!
 
 Turn your PDFs into an AI-powered assistant with PDF-Genie and experience the future of document interaction!
+
 
 🏷️ Hashtags
 
