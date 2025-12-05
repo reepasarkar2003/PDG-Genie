@@ -1,5 +1,4 @@
 🚀 PDF-Genie: Turn Your PDFs into a Smart Assistant 🤖📄
-
 Ever wished you could ask questions directly from PDFs instead of scrolling endlessly?
 
 Meet PDF-Genie – a Streamlit app that transforms your documents into a smart assistant, providing instant, context-aware answers from your PDFs.
