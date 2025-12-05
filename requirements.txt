@@ -1,0 +1,15 @@
+streamlit
+pypdf
+python-dotenv
+
+langchain==0.3.13
+langchain-community
+langchain-text-splitters==0.3.3
+
+sentence-transformers
+huggingface-hub
+faiss-cpu
+
+google-generativeai
+langchain-google-genai
+
